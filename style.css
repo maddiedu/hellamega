@@ -7,6 +7,7 @@ header {
     display: flex;
     color: white;
     margin-bottom: 2vh;
+    font-family: "Metal Mania";
 }
 
 header h1 {
@@ -62,7 +63,8 @@ a {
 body {
     background-color: rgba(23, 23, 23, 1);
     min-height: 100vh;
-    color: white
+    color: white;
+    font-family: "Abel";
 }
 
 .schedule {
